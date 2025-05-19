@@ -1,0 +1,80 @@
+Ideas and thoughts from Manning Publications Emails
+===================================================
+book summaries, etc
+A lot of these are unfinished MEAPS:
+MEAP = Manning Early Access Program; 3/4-finished books.
+which say they will become full books later; this doesn't always
+happen (did I have a 3/4 finished O'Reilly puppet book back in the
+day?)
+
+Shrek released in 2001: tried to be a blend of CGI and real action
+but looked terrible so went fully CGI
+
+################################################################
+Latency: Reduce delay in software systems
+by Pekka Enberg
+
+Slow responses can kill good software. Whether it's recovering
+microseconds lost while routing messages on a server or speeding up
+page loads that keep users waiting, finding and fixing latency can be
+a frustrating part of your work as a developer. This one-of-a-kind
+book shows you how to spot, understand, and respond to latency
+wherever it appears in your applications and infrastructure.
+################################################################
+
+################################################################
+Prompt Engineering in Practice (MEAP)
+by Richard Davies
+
+Discover valuable prompt engineering techniques based on industry
+usage and AI research. You'll learn by exploring real-world cases and
+examples, from simple tasks like generating formal emails, to using
+LLMs for data annotation, classifying tech support tickets, and
+building custom chatbots. You'll appreciate author Richard Davies'
+explanation of prompt design patterns and templates that you can
+customize for your own needs.
+################################################################
+
+################################################################
+Just use Postgres! by Denis Magda
+
+You probably don't need a collection of specialty databases. Just use
+Postgres instead!
+
+Need a fast, reliable SQL-compliant RDBMS? Just use Postgres! Need to
+work with geospatial data? Just use Postgres! Handling semi- or
+non-structured documents? Just use Postgres! Generative AI embeddings?
+You've got it: just use Postgres! Written for software engineers and
+database pros, Just Use Postgres shows you how to get the most out of
+the powerful PostgresSQL database.
+
+In Just Use Postgres! you'll learn how to:
+
+    Develop generative AI, geospatial, and time-series applications
+
+    Everything from transactional RDBMS services to specialized workloads
+
+    Modern SQL including window functions, CTEs, and JSON data
+
+    Implement full-text search
+
+    B-trees, GIN, HNSW, expression, and more
+
+    Postgres extensions
+
+Since its initial release in 1996, PostgreSQL, aka Postgres, has grown
+into the most popular and powerful full-featured open source RDBMS
+available. Just Use Postgres! takes a modern look at Postgres,
+exploring the database's most up-to-date features for AI, time-series,
+full-text search, geospatial, and other application workloads.
+
+about the book
+Just Use Postgres! uses relevant concrete examples to show you how to
+interact with Postgres as a software developer. Each chapter focuses
+on a different use case, including an eCommerce application, a music
+streaming service, and other interesting challenges. You'll explore
+the Postgres techniques, features, and capabilities you need to
+streamline each app's unique data management issues. From fundamental
+RDBMS features to an ecosystem of extensions for generative AI and
+more, you'll learn how to get the absolute best out of Postgres.
+################################################################
